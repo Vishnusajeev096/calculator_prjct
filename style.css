@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    background-color: rgb(6, 6, 6);
+}
+.border{
+    background-color:#ffffff;
+    width: 23%;
+}
+.inpt{
+    width: 100%;
+}
+.inptDiv{
+background-color: #999999;
+color: #999999;
+}
+.btnDiv{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px 10px;
+}
